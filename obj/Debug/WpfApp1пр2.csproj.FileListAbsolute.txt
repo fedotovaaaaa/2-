@@ -1,0 +1,48 @@
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\WpfApp1пр2.exe.config
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\WpfApp1пр2.exe
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\WpfApp1пр2.pdb
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.dll
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.SqlServer.dll
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.xml
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.SqlServer.xml
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\bin\Debug\ru\EntityFramework.resources.dll
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.AssemblyReference.cache
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.SuggestedBindingRedirects.cache
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\MainWindow.g.cs
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\App.g.cs
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2_MarkupCompile.cache
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2_MarkupCompile.lref
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\MainWindow.baml
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.g.resources
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.Properties.Resources.resources
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.GenerateResource.cache
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.CoreCompileInputs.cache
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.CopyComplete
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.exe
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.pdb
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\UserControl1Weather.g.cs
+Z:\2023-2024 уч.год\31ИС\Разработка кода\1 группа\Власова Анастасия\4 курс\2 пр\WpfApp1пр2\obj\Debug\UserControl1Weather.baml
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\WpfApp1пр2.exe.config
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\WpfApp1пр2.exe
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\WpfApp1пр2.pdb
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.dll
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.SqlServer.dll
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.xml
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\EntityFramework.SqlServer.xml
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\bin\Debug\ru\EntityFramework.resources.dll
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.AssemblyReference.cache
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.SuggestedBindingRedirects.cache
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\MainWindow.g.cs
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\UserControl1Weather.g.cs
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\App.g.cs
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2_MarkupCompile.cache
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2_MarkupCompile.lref
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\MainWindow.baml
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\UserControl1Weather.baml
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.g.resources
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.Properties.Resources.resources
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.GenerateResource.cache
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.CoreCompileInputs.cache
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.csproj.CopyComplete
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.exe
+Z:\24-25 уч год\41 ИС\Власова\РКИС\4 курс\2 пр\WpfApp1пр2\obj\Debug\WpfApp1пр2.pdb

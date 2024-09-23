@@ -1,0 +1,186 @@
+﻿<UserControl
+    x:Class="WpfApp1пр2.UserControl1Weather"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:DataModel="clr-namespace:WpfApp1пр2.DataModel"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfApp1пр2"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Width="829"
+    Height="460"
+    Loaded="UserControl_Loaded"
+    mc:Ignorable="d">
+    <UserControl.Resources>
+        <CollectionViewSource x:Key="weatherViewSource" d:DesignSource="{d:DesignInstance {x:Type DataModel:Weather}}" />
+        <CollectionViewSource x:Key="weatherViewSource1" d:DesignSource="{d:DesignInstance {x:Type DataModel:Weather}}" />
+        <CollectionViewSource x:Key="weatherViewSource2" d:DesignSource="{d:DesignInstance {x:Type DataModel:Weather}}" />
+    </UserControl.Resources>
+    <Grid
+        Margin="0,0,510,80"
+        Background="White"
+        DataContext="{StaticResource weatherViewSource}">
+        <Grid
+            x:Name="grid1"
+            Width="270"
+            Height="347"
+            Margin="39,22,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            DataContext="{StaticResource weatherViewSource2}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Label
+                Grid.Row="3"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Date:" />
+            <DatePicker
+                x:Name="dateDatePicker"
+                Grid.Row="3"
+                Grid.Column="1"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                SelectedDate="{Binding Date, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+
+            <Label
+                Grid.Row="1"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Hours:" />
+            <TextBox
+                x:Name="hoursTextBox"
+                Grid.Row="1"
+                Grid.Column="1"
+                Width="120"
+                Height="NaN"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding Hours, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+
+            <Label
+                Grid.Row="2"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Humidity:" />
+            <TextBox
+                x:Name="humidityTextBox"
+                Grid.Row="2"
+                Grid.Column="1"
+                Width="120"
+                Height="NaN"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding Humidity, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="ID:" />
+            <TextBox
+                x:Name="iDTextBox"
+                Grid.Row="0"
+                Grid.Column="1"
+                Width="120"
+                Height="NaN"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding ID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+
+            <Label
+                Grid.Row="4"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Name:" />
+            <TextBox
+                x:Name="nameTextBox"
+                Grid.Row="4"
+                Grid.Column="1"
+                Width="120"
+                Height="NaN"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding Name, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+
+            <Label
+                Grid.Row="7"
+                Grid.Column="0"
+                Margin="0,2,0,0"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Content="Photo:" />
+            <Image
+                x:Name="photoImage"
+                Grid.Row="7"
+                Grid.Column="1"
+                Height="113"
+                Margin="3,6,4,0"
+                VerticalAlignment="Top"
+                Source="{Binding Photo}"
+                Stretch="Fill" />
+
+            <Label
+                Grid.Row="6"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Temperature:" />
+            <TextBox
+                x:Name="temperatureTextBox"
+                Grid.Row="6"
+                Grid.Column="1"
+                Width="120"
+                Height="NaN"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding Temperature, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+
+            <Label
+                Grid.Row="5"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Type:" />
+            <TextBox
+                x:Name="typeTextBox"
+                Grid.Row="5"
+                Grid.Column="1"
+                Width="120"
+                Height="NaN"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding Type, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" />
+        </Grid>
+    </Grid>
+</UserControl>
